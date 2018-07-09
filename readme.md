@@ -2,7 +2,7 @@
 
 ## Linux
 
-### [基础命令](./linux/)
+### [基础命令](./linux/Linux.md)
 
 ## MySQL
 
